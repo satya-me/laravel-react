@@ -23,3 +23,7 @@
     <li>And then run npm start</li>
 </ul>
 
+
+# Note
+
+<h3>I have very less knowledge in React Js but I managed it with help of Internate.</h3>
