@@ -7,27 +7,19 @@
 # This repo has two project Laravel 8 & React Js 17
 
 # Laravel installation 
-<!-- 
-1. Create a copy of .env.example => .env and configure DB 
-2. And then run the migration command.
-3. Serve the laravel application.
+<ul>
+    <li>Create a copy of .env.example => .env and configure DB </li>
+    <li>And then run the migration command.</li>
+    <li>Serve the laravel application.</li>
+    <li>for first login into laravel App.</li>
+</ul>
 
-4. for first login into laravel App.
-
-
-
- -->
 
  # React installation
 
  
-
- <!-- 
- 
-
- 1. First install node_module using command (npm install).
-
-
- 
-  -->
+<ul>
+    <li>First install node_module using command (npm install) </li>
+    <li>And then run npm start</li>
+</ul>
 
