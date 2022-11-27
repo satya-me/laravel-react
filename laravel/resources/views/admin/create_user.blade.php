@@ -43,6 +43,7 @@
                                 </div>
                             </div>
                             <button type="submit" class="btn btn-success">Save</button>
+                            <a href="{{route('admin.get_user_view')}}" class="btn btn-success ">User List</a>
                         </form>
                     </div>
                 </div>
