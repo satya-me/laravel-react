@@ -1,6 +1,6 @@
 <p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p> 
 <br>
-<p align="center"><a href="" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" width="400"></a></p> 
+<p align="center"><a href="" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" width="300"></a></p> 
 
 
 
@@ -9,7 +9,7 @@
 # Laravel installation 
 <ul>
     <li>Create a copy of .env.example => .env and configure DB </li>
-    <li>Composer update</li>
+    <li>Composer update/install</li>
     <li>And then run the migration command.</li>
     <li>Serve the laravel application.</li>
     <li>for first login into laravel App.</li>
