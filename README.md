@@ -9,6 +9,7 @@
 # Laravel installation 
 <ul>
     <li>Create a copy of .env.example => .env and configure DB </li>
+    <li>Composer update</li>
     <li>And then run the migration command.</li>
     <li>Serve the laravel application.</li>
     <li>for first login into laravel App.</li>
